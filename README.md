@@ -10,5 +10,5 @@ This project is a frontend replica of Amazon's website, built using HTML, CSS. I
 * CSS
 
 ### Getting Started
-1. Clone this repository: `git clone https://github.com/AmithShaji/amazon-clone.git`
+1. Clone this repository: `git clone https://github.com/amith-shaji/amazon-clone.git`
 2. Open the `index.html` file in your preferred web browser.
